@@ -1,0 +1,3 @@
+HEIGHT = 400
+WIDTH = 800
+BG_COLOR = '#b8f5ed'
